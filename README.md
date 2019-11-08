@@ -1,8 +1,17 @@
 # Python_smart
 
-**1. 멀티캠퍼스에서 파이썬 스터디하던 코드입니다.**
+<br>
 
-**2. Mooc 강의 및 '데이터 분석을 위한 파이썬 철저입문, 위키북스', '파이썬으로 데이터 주무르기', '데이터 분석을 위한 판다스 입문, 이지스 퍼블리싱', '점프 투 파이썬' 등을 학습했습니다.**
+- [Pandas](https://github.com/seunghyunshin111/Python_smart/tree/master/Pandas)
+
+- [Theory](https://github.com/seunghyunshin111/Python_smart/tree/master/Theory)
+
+<br>
+
+- [언어판별프로그램](https://github.com/seunghyunshin111/Python_smart/tree/master/언어판별프로그램)
+- [mnist](https://github.com/seunghyunshin111/Python_smart/tree/master/Python_Code/mnist)
+- [Mushroom](https://github.com/seunghyunshin111/Python_smart/tree/master/Python_Code/Mushroom)
+- [mglearn](https://github.com/seunghyunshin111/Python_smart/tree/master/Python_Code/mglearn)
 
 
 
