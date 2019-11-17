@@ -1,7 +1,7 @@
 # Python_smart
 
 - [Python_multicampus](https://github.com/seunghyunshin111/Python_smart/tree/master/Python/Python_multicampus)
-- [practical exercise](https://github.com/seunghyunshin111/Python_smart/tree/master/Python/practical exercise)  Python_code
+- [practical exercise](https://github.com/seunghyunshin111/Python_smart/tree/master/Python/practical exercise)
 
 <br>
 
