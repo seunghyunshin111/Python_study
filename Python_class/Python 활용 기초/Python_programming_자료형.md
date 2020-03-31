@@ -1,0 +1,64 @@
+#  Python 프로그래밍_2
+
+```python
+solarsys = ["태양", "수성", "토성", "명왕성"]
+del solarsys[-1]
+print(solarsys)
+```
+
+```python
+solarsys = ["태양", "수성", "토성", "명왕성"]
+del solarsys[1:3]
+print(solarsys)
+```
+
+```python
+solarsys = ["태양", "수성", "토성", "명왕성"]
+solarsys.extent(["헬리혜성"])
+print(solarsys)
+
+moon = solrasys.index("지구")
+solarsys.insert(moon, "달")
+print(solarsys)
+```
+
+```python
+# 인자가 1개 튜플의 경우 마지막에 ,를 입력해야 함
+tp = (1,)
+
+# 튜플은 변경하거나 삭제할 순 없지만 요소를 변경하지 않는 index(), count()는 사용이 가능함
+tp.index(1)
+tp.count(1)
+```
+
+```python
+# 세트
+set = {1, 2, 3}
+```
+
+```python
+t1 = (1, 2, 'q', 'w', 'e')
+del t1[1]
+
+# Error
+```
+
+```python
+t1 = (1, 2, 'q', 'w', 'e')에서 2, q, w, e를 [:](슬라이싱)으로 선택하는 방법은?
+
+t1[1:]
+```
+
+```python
+t1 = (1, 1, 1, 2, 'q', 'w', 'e')에서 1의 개수를 세고 싶다면?
+
+t1.count(1)
+```
+
+```python
+# 세트 문제
+# 교집합 &  -> print(a & b)
+# 합집합 |
+# 차집합 -
+```
+
