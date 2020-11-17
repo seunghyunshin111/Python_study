@@ -1,10 +1,14 @@
 # Python_smart
 
+- [Python_multicampus](https://github.com/seunghyunshin111/Python_smart/tree/master/Python/Python_multicampus)
+- [practical exercise](https://github.com/seunghyunshin111/Python_smart/tree/master/Python/practical exercise)  Python_code
+
 <br>
 
 - [Pandas](https://github.com/seunghyunshin111/Python_smart/tree/master/Pandas)
 
 - [Theory](https://github.com/seunghyunshin111/Python_smart/tree/master/Theory)
+- [Web_crawling](https://github.com/seunghyunshin111/Python_smart/tree/master/Web_crawling)
 
 <br>
 
