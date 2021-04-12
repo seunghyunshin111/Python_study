@@ -2,7 +2,7 @@
 
 <br>
 
-- [Python_multicampus](https://github.com/seunghyunshin111/Python_smart/tree/master/Python/Python_multicampus)
+- [Python](https://github.com/seunghyunshin111/Python_smart/tree/master/Python/Python_multicampus)
 - [practical_exercise](https://github.com/seunghyunshin111/Python_smart/tree/master/Python/practical_exercise)
 
 <br>
