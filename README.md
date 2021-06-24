@@ -21,7 +21,7 @@
 
 <br>
 
-- Python Coding-test Study
+- Python Coding-test Study (2021. 7. 3 ~)
 
 
 
