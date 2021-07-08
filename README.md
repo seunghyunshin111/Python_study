@@ -24,7 +24,7 @@
 - Python Coding-test Study (2021. 7. 3 ~)
   - Hanyang.
   - 백준 알고리즘 / 프로그래머스 / 파이썬 알고리즘 인터뷰
-  - [Notion](https://www.notion.so/9a2bda1038b34cf8bb25fd0bfc49dc43)
+  - [Notion](https://www.notion.so/de8bf527aec94740a1085db289bd54d2)
 
 
 
