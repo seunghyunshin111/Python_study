@@ -25,7 +25,8 @@
   - Hanyang.
   - 백준 알고리즘 / 프로그래머스 / 파이썬 알고리즘 인터뷰
   - [Notion](https://www.notion.so/8b152e1b88f8485c8852949b411c33cc?v=7e894ef12ca544a4aaa94a3452562f36)
-  - [Coding-test](https://tech.kakao.com/2021/07/08/2021-%ec%b9%b4%ec%b9%b4%ec%98%a4-%ec%9d%b8%ed%84%b4%ec%8b%ad-for-tech-developers-%ec%bd%94%eb%94%a9-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ed%95%b4%ec%84%a4/)
+  - [Coding-test(Kakao)](https://tech.kakao.com/2021/07/08/2021-%ec%b9%b4%ec%b9%b4%ec%98%a4-%ec%9d%b8%ed%84%b4%ec%8b%ad-for-tech-developers-%ec%bd%94%eb%94%a9-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ed%95%b4%ec%84%a4/)
+  - [유형별 기출 코테](https://www.acmicpc.net/workbook/codeplus/1)
 
 
 
